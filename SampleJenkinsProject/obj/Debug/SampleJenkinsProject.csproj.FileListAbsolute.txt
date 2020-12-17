@@ -1,0 +1,7 @@
+D:\Data\d drive\Corp\Srushti\L&T\LTI_GET_886\Work\Spl\Day2\SampleJenkinsSolution\SampleJenkinsProject\bin\Debug\SampleJenkinsProject.exe.config
+D:\Data\d drive\Corp\Srushti\L&T\LTI_GET_886\Work\Spl\Day2\SampleJenkinsSolution\SampleJenkinsProject\bin\Debug\SampleJenkinsProject.exe
+D:\Data\d drive\Corp\Srushti\L&T\LTI_GET_886\Work\Spl\Day2\SampleJenkinsSolution\SampleJenkinsProject\bin\Debug\SampleJenkinsProject.pdb
+D:\Data\d drive\Corp\Srushti\L&T\LTI_GET_886\Work\Spl\Day2\SampleJenkinsSolution\SampleJenkinsProject\obj\Debug\SampleJenkinsProject.csprojAssemblyReference.cache
+D:\Data\d drive\Corp\Srushti\L&T\LTI_GET_886\Work\Spl\Day2\SampleJenkinsSolution\SampleJenkinsProject\obj\Debug\SampleJenkinsProject.csproj.CoreCompileInputs.cache
+D:\Data\d drive\Corp\Srushti\L&T\LTI_GET_886\Work\Spl\Day2\SampleJenkinsSolution\SampleJenkinsProject\obj\Debug\SampleJenkinsProject.exe
+D:\Data\d drive\Corp\Srushti\L&T\LTI_GET_886\Work\Spl\Day2\SampleJenkinsSolution\SampleJenkinsProject\obj\Debug\SampleJenkinsProject.pdb
